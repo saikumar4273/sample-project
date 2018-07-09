@@ -9,6 +9,7 @@ class Add
 		float y=20f;
 		float z=x+y;
 		System.out.println(z+" is the of "+x+" and "+y);
+	
 	}
 		//main method closed
 }
