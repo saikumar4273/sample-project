@@ -13,5 +13,4 @@ class Add
 	}
 		//main method closed
 	//program closed
-
 }
